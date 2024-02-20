@@ -19,4 +19,11 @@ console.log("divisao =",divisao)
 
 
 //Regras para nomear identivicador (var const ou let)
-// podem começar com a-z,_ ou _ $
+// podem começar com a-z,_ ou 
+
+var v1 = 10
+var v2 = 3
+console.log("valores v1 =", v1, "v2 =", v2)
+console.log("resto da divisão inteira: v1 % v2 =", v2)
+console.log("exponenciação: v1**v2 (v1 elevado á v2) =", v1 ** v2)  'q  
+'
